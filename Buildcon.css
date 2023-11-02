@@ -1,0 +1,66 @@
+.fimg{
+    margin-bottom: 160px;
+}
+.simg{
+    margin-bottom: 160px;
+    color: yellow;
+}
+.timg{
+    margin-bottom: 160px;
+}
+button{
+    display: inline-block;
+    background-color: yellow;
+    padding: 2px 15px;
+}
+.card{
+    text-align: center;
+}
+.ov{
+    text-align: center;
+}
+.card-img-top{
+    height: 300px;
+}
+.row{
+    align-content: center;
+}
+.card-lg-5{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.our{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.material-symbols-outlined{
+    margin-top: 40px;
+}
+.services{
+    margin-left: 35px;
+    margin-bottom: 100px;
+}
+.card-img{
+    height: 300px;
+    border-radius: 1000px;
+}
+.team{
+    margin-bottom: 100px;
+}
+.us{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.button{
+    text-align: center;
+    outline: yellow;
+}
+.contact{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.d-block{
+    height: 600px;
+}
